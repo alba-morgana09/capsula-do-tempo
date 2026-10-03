@@ -2,8 +2,9 @@ import type { Metadata } from "next";
 import "../styles/globals.css";
 
 export const metadata: Metadata = {
-  title: "Cápsula do tempo",
-  description: "Cartas para o seu eu do futuro.",
+  title: "Telemetria para o Amanhã | Cápsula do Tempo",
+  description:
+    "Hoje eu coleto sinais; no futuro, desenho arquiteturas que sabem responder.",
 };
 
 export default function RootLayout({
